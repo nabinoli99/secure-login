@@ -46,8 +46,6 @@ public class SpringConfig {
     }
 
     @Bean
-    public USer
-    @Bean
     public PasswordEncoder passwordEncoder() {
         return new BCryptPasswordEncoder();
     }
