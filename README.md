@@ -33,16 +33,16 @@ The task management module is built for scalability and precise data retrieval:
 
 ## 📂 Project Structure
 
-`src/main/java/
+src/main/java/
 ├── in.nabin.springsecurity/
-│   ├── config/             # Spring Security configuration (SpringConfig)
-│   ├── controller/         # AuthController (Register, Login, Profile)
-│   ├── entities/           # AppUser JPA Entity
-│   ├── repository/         # UserRepository (JPA interface)
-│   └── service/            # CustomUserDetailsService logic
+│   ├── config/          # Spring Security configuration (SpringConfig)
+│   ├── controller/      # AuthController (Register, Login, Profile)
+│   ├── entities/        # AppUser JPA Entity
+│   ├── repository/      # UserRepository (JPA interface)
+│   └── service/         # CustomUserDetailsService logic
 └── com.nabin.taskmanager/
-    ├── controller/         # TaskController (Filtering, CRUD, Stats)
-    └── specification/      # TaskSpecification (Dynamic filtering logic)`
+    ├── controller/      # TaskController (Filtering, CRUD, Stats)
+    └── specification/   # TaskSpecification (Dynamic filtering logic)
 ## 🚦 Getting Started
 
 1. **Clone the project**
