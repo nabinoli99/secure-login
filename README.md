@@ -1,7 +1,3 @@
-Here is the complete project description in a professional **README.md** format, strictly based on the code you shared.
-
----
-
 # Secure Task Management System
 
 A custom-built **Spring Boot 3.x** application featuring a robust **Spring Security** architecture and a high-performance **JPA Task Specification** engine. This project is designed to handle secure user lifecycle management and advanced data filtering.
