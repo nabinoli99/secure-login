@@ -35,8 +35,6 @@ The task management module is built for scalability and precise data retrieval:
 
 Plaintext
 
-# 
-
 `src/main/java/
 ├── in.nabin.springsecurity/
 │   ├── config/             # Spring Security configuration (SpringConfig)
@@ -59,6 +57,3 @@ Plaintext
 4. **Run Application:**Bash
     
     `./mvnw spring-boot:run`
-    
-
----
