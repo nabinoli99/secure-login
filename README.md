@@ -33,8 +33,6 @@ The task management module is built for scalability and precise data retrieval:
 
 ## 📂 Project Structure
 
-Plaintext
-
 `src/main/java/
 ├── in.nabin.springsecurity/
 │   ├── config/             # Spring Security configuration (SpringConfig)
@@ -45,7 +43,6 @@ Plaintext
 └── com.nabin.taskmanager/
     ├── controller/         # TaskController (Filtering, CRUD, Stats)
     └── specification/      # TaskSpecification (Dynamic filtering logic)`
-
 ## 🚦 Getting Started
 
 1. **Clone the project**
